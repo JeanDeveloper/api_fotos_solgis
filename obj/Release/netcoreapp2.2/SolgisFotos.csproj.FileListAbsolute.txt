@@ -1,0 +1,14 @@
+D:\net\SolgisFotos\SolgisFotos\bin\Release\netcoreapp2.2\SolgisFotos.deps.json
+D:\net\SolgisFotos\SolgisFotos\bin\Release\netcoreapp2.2\SolgisFotos.runtimeconfig.json
+D:\net\SolgisFotos\SolgisFotos\bin\Release\netcoreapp2.2\SolgisFotos.runtimeconfig.dev.json
+D:\net\SolgisFotos\SolgisFotos\bin\Release\netcoreapp2.2\SolgisFotos.dll
+D:\net\SolgisFotos\SolgisFotos\bin\Release\netcoreapp2.2\SolgisFotos.pdb
+D:\net\SolgisFotos\SolgisFotos\obj\Release\netcoreapp2.2\SolgisFotos.csproj.CoreCompileInputs.cache
+D:\net\SolgisFotos\SolgisFotos\obj\Release\netcoreapp2.2\SolgisFotos.RazorAssemblyInfo.cache
+D:\net\SolgisFotos\SolgisFotos\obj\Release\netcoreapp2.2\SolgisFotos.RazorAssemblyInfo.cs
+D:\net\SolgisFotos\SolgisFotos\obj\Release\netcoreapp2.2\SolgisFotos.AssemblyInfoInputs.cache
+D:\net\SolgisFotos\SolgisFotos\obj\Release\netcoreapp2.2\SolgisFotos.AssemblyInfo.cs
+D:\net\SolgisFotos\SolgisFotos\obj\Release\netcoreapp2.2\SolgisFotos.RazorTargetAssemblyInfo.cache
+D:\net\SolgisFotos\SolgisFotos\obj\Release\netcoreapp2.2\SolgisFotos.dll
+D:\net\SolgisFotos\SolgisFotos\obj\Release\netcoreapp2.2\SolgisFotos.pdb
+D:\net\SolgisFotos\SolgisFotos\obj\Release\netcoreapp2.2\SolgisFotos.csprojAssemblyReference.cache
